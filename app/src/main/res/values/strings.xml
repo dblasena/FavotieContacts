@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Favotie Contacts</string>
+    <string name="name_number">Name Number</string>
+    <string name="call">Call</string>
+    <string name="text">Text</string>
+
+
+    <string-array name="Names">
+        <item>Bob</item>
+        <item>Mike</item>
+        <item>Steve</item>
+    </string-array>
+
+
+    <string-array name="Numbers">
+        <item>1234567890</item>
+        <item>3527589385</item>
+        <item>6476389987</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Hello</item>
+        <item> it going?</item>
+        <item>Ok</item>
+        <item>Have a great day</item>
+        <item>Bye</item>
+    </string-array>
+</resources>
